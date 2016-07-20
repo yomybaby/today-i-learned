@@ -1,3 +1,3 @@
-# My Awesome Book
+# 이 gitbook은..
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+하루 하루 새롭게 알게되거나 삽질한 내용을 그냥 가볍게 메모
